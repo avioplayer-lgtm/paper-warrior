@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+bot.log
+state.db
+exports/

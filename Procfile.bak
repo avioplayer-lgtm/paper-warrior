@@ -1,0 +1,1 @@
+worker: python -u main_v2_step1.py
