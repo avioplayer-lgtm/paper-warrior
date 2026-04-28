@@ -1,1 +1,1 @@
-worker: python -u main_v2_step1.py
+worker: python -u main_v2_paper_only_full.py
